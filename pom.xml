@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.fortech</groupId>
-    <artifactId>TestJenkins</artifactId>
+    <artifactId>testjenkins</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>TestJenkins</name>
     <description>TestJenkins</description>
