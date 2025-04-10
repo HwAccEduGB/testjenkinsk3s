@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping("/")
     public String sayHello(){
-        return "Hello kuber test check vith hook 15.35";
+        return "Hello kuber test check vith hook 10.04.25 10.27";
     }
 }
